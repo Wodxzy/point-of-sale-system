@@ -11,6 +11,6 @@ package main.pos;
 public class Pos {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("DGKJLMNHIEBNIOEINOEHNIORNIOROEBRNBIOUNBORRBRRNUBRNUI");
     }
 }
